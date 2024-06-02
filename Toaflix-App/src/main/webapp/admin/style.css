@@ -1,0 +1,13 @@
+.bg-custom{
+	background-color: #f57f17;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background-color: rebeccapurple;
+	color: black;
+	border-radius:15px;
+}
+
+.titulo-grande{
+	font-size: 70px;
+}
